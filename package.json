@@ -1,0 +1,19 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dirname": "nodejs/dirname.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanlisin/kata.git"
+  },
+  "author": "Ivan Lisin <ivanlisin.tech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanlisin/kata/issues"
+  },
+  "homepage": "https://github.com/ivanlisin/kata#readme"
+}

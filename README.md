@@ -1,1 +1,5 @@
 # kata
+
+### nodejs
+
+* dirname.js
